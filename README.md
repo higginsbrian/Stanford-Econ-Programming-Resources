@@ -17,6 +17,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 ## Programming for economists
 - [Code and Data for the Social Sciences:A Practitioner's Guide (Gentzkow,Shapiro)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+- [Course on computation (Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 ## General programming
 - [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
