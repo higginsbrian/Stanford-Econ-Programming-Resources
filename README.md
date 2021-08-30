@@ -4,6 +4,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 ## Github
 - [How to make your first contribution](https://github.com/firstcontributions/first-contributions). 
+- [How to make your first contribution w/ Github desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
 
 ## Stata
 
