@@ -14,6 +14,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - Cheetsheet by Quantecon for [Python](https://cheatsheets.quantecon.org/python-cheatsheet.html); [Python vs Matlab vs Julia](https://cheatsheets.quantecon.org/); [Stats: Python pandas vs Stata vs R](https://cheatsheets.quantecon.org/stats-cheatsheet.html).
 - [Introduction to Scientific Computing with Python (CME 193)](http://web.stanford.edu/class/cme193/syllabus.html). A one-unit course at Stanford -- worth taking at some point to see the full capacity of Python.  
 - [Stata to Python Cheatsheet](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/) Tutorial on web scraping with Beautiful Soup.
 
 
 ## Matlab
