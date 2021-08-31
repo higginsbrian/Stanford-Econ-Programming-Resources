@@ -22,6 +22,9 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [Introduction to data visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
 
 
+## R
+- [R for economists] (https://libguides.bates.edu/r/r-for-economics)
+
 
 ## Matlab
 - [MathWorks](https://www.mathworks.com/help/). A website that contains many solutions to any coding issues you may face on Matlab.
