@@ -9,7 +9,9 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 
 ## Stata
+- [Using "inlist()"](https://twitter.com/nickchk/status/1295852192126005248?lang=en). A useful tool that will save you LOTS of time when defining variables. 
 - [How to make (pretty) maps](https://www.stata.com/support/faqs/graphics/spmap-and-maps/)
+
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
