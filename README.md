@@ -13,6 +13,8 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [How to make (pretty) maps](https://www.stata.com/support/faqs/graphics/spmap-and-maps/)
 
 
+- [Lauren's Favorite Coding Resources](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
 - Cheetsheet by Quantecon for [Python](https://cheatsheets.quantecon.org/python-cheatsheet.html); [Python vs Matlab vs Julia](https://cheatsheets.quantecon.org/); [Stats: Python pandas vs Stata vs R](https://cheatsheets.quantecon.org/stats-cheatsheet.html).
