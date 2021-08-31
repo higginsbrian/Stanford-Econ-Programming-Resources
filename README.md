@@ -8,7 +8,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [How to make your first contribution w/ Github desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
 
 ## Stata
-- [Using "inlist"](https://twitter.com/nickchk/status/1295852192126005248?lang=en). A small function that will save you LOTS of time when defining variables. 
+- [Using "inlist()"](https://twitter.com/nickchk/status/1295852192126005248?lang=en). A useful tool that will save you LOTS of time when defining variables. 
 
 
 ## Python
