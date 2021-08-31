@@ -9,7 +9,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 ## Stata
 
--[Lauren's Favorite Coding Resources] (https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+- [Lauren's Favorite Coding Resources] (https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
