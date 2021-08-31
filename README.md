@@ -15,6 +15,9 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [Introduction to Scientific Computing with Python (CME 193)](http://web.stanford.edu/class/cme193/syllabus.html). A one-unit course at Stanford -- worth taking at some point to see the full capacity of Python.  
 - [Stata to Python Cheatsheet](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
 
+## R
+- [R for economists] (https://libguides.bates.edu/r/r-for-economics)
+
 
 ## Matlab
 - [MathWorks](https://www.mathworks.com/help/). A website that contains many solutions to any coding issues you may face on Matlab.
