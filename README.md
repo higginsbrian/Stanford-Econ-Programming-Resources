@@ -7,6 +7,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [How to make your first contribution](https://github.com/firstcontributions/first-contributions). 
 - [How to make your first contribution w/ Github desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
 
+
 ## Stata
 
 ## Python
@@ -19,6 +20,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 ## Matlab
 - [MathWorks](https://www.mathworks.com/help/). A website that contains many solutions to any coding issues you may face on Matlab.
+- [Tips for Matlab](https://www.mathworks.com/help/matlab/matlab_prog/techniques-for-improving-performance.html)
 
 ## Programming for economists
 - [Code and Data for the Social Sciences:A Practitioner's Guide (Gentzkow,Shapiro)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
