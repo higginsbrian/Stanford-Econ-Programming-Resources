@@ -9,6 +9,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 
 ## Stata
+- [How to make (pretty) maps](https://www.stata.com/support/faqs/graphics/spmap-and-maps/)
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
@@ -33,3 +34,4 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [Intro, why its good for econ/data science, and how to get started](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [Docker Data Science Stack](https://hub.docker.com/r/jupyter/datascience-notebook/)
  
+
