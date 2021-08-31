@@ -3,6 +3,7 @@
 This is a repo to crowdsource useful programming resources and to learn how to use GitHub in the process. If you want to add a link to the list, then please submit a pull request. You can also propose changes to how we structure the document (either in the issues list or in a pull request). Any other thoughts, then create an issue. 
 
 ## Github
+- [Intro to Github](https://guides.github.com/activities/hello-world/) 
 - [How to make your first contribution](https://github.com/firstcontributions/first-contributions). 
 - [How to make your first contribution w/ Github desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
 
@@ -24,4 +25,4 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 ## General programming
 - [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
-- [Intro to Github](https://guides.github.com/activities/hello-world/)  
+ 
