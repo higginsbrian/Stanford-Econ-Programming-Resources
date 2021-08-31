@@ -1,7 +1,7 @@
 # Crowd sourcing programming resouces for Stanford economists
 
 This is a repo to crowdsource useful programming resources and to learn how to use GitHub in the process. If you want to add a link to the list, then please submit a pull request. You can also propose changes to how we structure the document (either in the issues list or in a pull request). Any other thoughts, then create an issue. 
-
+This is Tamri's little comment, please ignore.
 ## Github
 - [Intro to Github](https://guides.github.com/activities/hello-world/) 
 - [How to make your first contribution](https://github.com/firstcontributions/first-contributions). 
