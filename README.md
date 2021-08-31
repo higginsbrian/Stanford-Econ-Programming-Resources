@@ -10,9 +10,9 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 
 ## Stata
+- [Jack Blundell Stata intro](https://jackblun.github.io/metricsinstata/)
 - [Using "inlist()"](https://twitter.com/nickchk/status/1295852192126005248?lang=en). A useful tool that will save you LOTS of time when defining variables. 
 - [How to make (pretty) maps](https://www.stata.com/support/faqs/graphics/spmap-and-maps/)
-
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
@@ -20,6 +20,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [Introduction to Scientific Computing with Python (CME 193)](http://web.stanford.edu/class/cme193/syllabus.html). A one-unit course at Stanford -- worth taking at some point to see the full capacity of Python.  
 - [Stata to Python Cheatsheet](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
 - [Introduction to data visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+
 
 
 ## Matlab
