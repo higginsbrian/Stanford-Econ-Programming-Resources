@@ -37,12 +37,18 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [Course on computation (Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 ## General programming
-- [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
-- [QuantEcon Notes](https://notes.quantecon.org/)
-- [StackOverflow](https://stackoverflow.com/). Online forum where people ask and answer coding questions. Insanely useful! 
+-  [Toward Data Science](https://towardsdatascience.com/). 
+Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
+  <<<<<<< mcrystal1-patch-2
 
-## Docker (next level)
-- [Intro, why its good for econ/data science, and how to get started](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
-- [Docker Data Science Stack](https://hub.docker.com/r/jupyter/datascience-notebook/)
- 
+  [A collection of charts in R](https://www.r-graph-gallery.com/)
+  =======
+  - [QuantEcon Notes](https://notes.quantecon.org/)
+  - [StackOverflow](https://stackoverflow.com/). Online forum where people ask and answer coding questions. Insanely useful! 
 
+  ## Docker (next level)
+  - [Intro, why its good for econ/data science, and how to get started](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+  - [Docker Data Science Stack](https://hub.docker.com/r/jupyter/datascience-notebook/)
+
+
+  >>>>>>> main
