@@ -35,6 +35,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [Course on computation (Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 ## R
+- [R4DataScience](https://r4ds.had.co.nz/). Free online textbook guiding you how to use R for data science purposes.
 - [R for Data Science (Grolemund and Wickham)](https://r4ds.had.co.nz/)
 
 ## General programming
