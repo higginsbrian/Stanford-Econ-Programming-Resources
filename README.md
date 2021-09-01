@@ -31,24 +31,17 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [R4DataScience](https://r4ds.had.co.nz/). Free online textbook guiding you how to use R for data science purposes.
 - [R for Data Science (Grolemund and Wickham)](https://r4ds.had.co.nz/)
 - [R for economists](https://libguides.bates.edu/r/r-for-economics)
+- [A collection of charts in R](https://www.r-graph-gallery.com/)
 
 ## Programming for economists
 - [Code and Data for the Social Sciences:A Practitioner's Guide (Gentzkow,Shapiro)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 - [Course on computation (Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 ## General programming
--  [Toward Data Science](https://towardsdatascience.com/). 
-Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
-  <<<<<<< mcrystal1-patch-2
-
-  [A collection of charts in R](https://www.r-graph-gallery.com/)
-  =======
+-  [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
   - [QuantEcon Notes](https://notes.quantecon.org/)
   - [StackOverflow](https://stackoverflow.com/). Online forum where people ask and answer coding questions. Insanely useful! 
 
   ## Docker (next level)
   - [Intro, why its good for econ/data science, and how to get started](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
   - [Docker Data Science Stack](https://hub.docker.com/r/jupyter/datascience-notebook/)
-
-
-  >>>>>>> main
