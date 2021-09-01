@@ -8,6 +8,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [How to make your first contribution w/ Github desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
 
 ## Stata
+- [Stata Forum] (https://www.statalist.org/forums/forum/general-stata-discussion/general)
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
@@ -26,4 +27,3 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 ## General programming
 - [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
  
-Jon Hartley's version
