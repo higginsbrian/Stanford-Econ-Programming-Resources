@@ -29,7 +29,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 ## R
 - [R4DataScience](https://r4ds.had.co.nz/). Free online textbook guiding you how to use R for data science purposes.
 - [R for Data Science (Grolemund and Wickham)](https://r4ds.had.co.nz/)
-- [R for economists] (https://libguides.bates.edu/r/r-for-economics)
+- [R for economists](https://libguides.bates.edu/r/r-for-economics)
 
 ## Programming for economists
 - [Code and Data for the Social Sciences:A Practitioner's Guide (Gentzkow,Shapiro)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
