@@ -39,6 +39,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 
 ## General programming
 - [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
+- [QuantEcon Notes](https://notes.quantecon.org/)
 - [StackOverflow](https://stackoverflow.com/). Online forum where people ask and answer coding questions. Insanely useful! 
 
 ## Docker (next level)
