@@ -13,7 +13,7 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - [How to make (pretty) maps](https://www.stata.com/support/faqs/graphics/spmap-and-maps/)
 - [Jack Blundell Stata intro](https://jackblun.github.io/metricsinstata/)
 - [Using "inlist()"](https://twitter.com/nickchk/status/1295852192126005248?lang=en). A useful tool that will save you LOTS of time when defining variables. 
-- [Stata Forum] (https://www.statalist.org/forums/forum/general-stata-discussion/general)
+- [Stata Forum](https://www.statalist.org/forums/forum/general-stata-discussion/general)
 
 ## Python
 - [QuantEcon](https://quantecon.org/). A website with many examples of economic models being solved with Python (and Julia too!).
