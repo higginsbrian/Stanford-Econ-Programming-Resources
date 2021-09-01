@@ -19,24 +19,21 @@ This is a repo to crowdsource useful programming resources and to learn how to u
 - Cheetsheet by Quantecon for [Python](https://cheatsheets.quantecon.org/python-cheatsheet.html); [Python vs Matlab vs Julia](https://cheatsheets.quantecon.org/); [Stats: Python pandas vs Stata vs R](https://cheatsheets.quantecon.org/stats-cheatsheet.html).
 - [Introduction to Scientific Computing with Python (CME 193)](http://web.stanford.edu/class/cme193/syllabus.html). A one-unit course at Stanford -- worth taking at some point to see the full capacity of Python.  
 - [Stata to Python Cheatsheet](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/) Tutorial on web scraping with Beautiful Soup.
 - [Introduction to data visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
-
-
-## R
-- [R for economists] (https://libguides.bates.edu/r/r-for-economics)
-
 
 ## Matlab
 - [MathWorks](https://www.mathworks.com/help/). A website that contains many solutions to any coding issues you may face on Matlab.
 - [Tips for Matlab](https://www.mathworks.com/help/matlab/matlab_prog/techniques-for-improving-performance.html)
 
-## Programming for economists
-- [Code and Data for the Social Sciences:A Practitioner's Guide (Gentzkow,Shapiro)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
-- [Course on computation (Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
-
 ## R
 - [R4DataScience](https://r4ds.had.co.nz/). Free online textbook guiding you how to use R for data science purposes.
 - [R for Data Science (Grolemund and Wickham)](https://r4ds.had.co.nz/)
+- [R for economists] (https://libguides.bates.edu/r/r-for-economics)
+
+## Programming for economists
+- [Code and Data for the Social Sciences:A Practitioner's Guide (Gentzkow,Shapiro)](http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+- [Course on computation (Fernández-Villaverde)](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
 ## General programming
 - [Toward Data Science](https://towardsdatascience.com/). Short articles on all things Python. Want to know how to use some of the packages listed above? There is bound to be an intro here. 
