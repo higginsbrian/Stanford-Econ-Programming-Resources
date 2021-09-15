@@ -42,6 +42,6 @@ This is a repo to crowdsource useful programming resources and to learn how to u
   - [QuantEcon Notes](https://notes.quantecon.org/)
   - [StackOverflow](https://stackoverflow.com/). Online forum where people ask and answer coding questions. Insanely useful! 
 
-  ## Docker (next level)
+  ## Docker 
   - [Intro, why its good for econ/data science, and how to get started](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
   - [Docker Data Science Stack](https://hub.docker.com/r/jupyter/datascience-notebook/)
